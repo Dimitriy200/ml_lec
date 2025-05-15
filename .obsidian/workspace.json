@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0212a5e4b40fb0ed",
+        "id": "5b9559bf51840e4f",
         "type": "tabs",
         "children": [
           {
-            "id": "2431be81363632ad",
+            "id": "e71f9276552a562a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,11 +165,10 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "terminal:Open terminal": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2431be81363632ad",
+  "active": "e71f9276552a562a",
   "lastOpenFiles": [
     "Лекция 6 - Эстиматоры для вариационного инференса.md",
     "Лекция 7 - Точный инференс дискретных переменных.md",
