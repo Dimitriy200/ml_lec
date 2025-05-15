@@ -1,5 +1,5 @@
 **Ссылка на лекцию** - https://rutube.ru/play/embed/a80ed09922b0c409dd236caa550f055a/?p=jFo-sYoCC590TrKdKlVXJQ
-
+ 
 ---
 
 **Апостериорное распределение весов:**

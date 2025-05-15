@@ -4,21 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9559bf51840e4f",
-        "type": "tabs",
+        "id": "47f687406a283979",
+        "type": "split",
+        "dimension": 54.26439232409381,
         "children": [
           {
-            "id": "e71f9276552a562a",
+            "id": "1884e4aadb84543f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5c5fd503cfc7e23",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Лекция 06 - Эстиматоры для вариационного инференса.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Лекция 06 - Эстиматоры для вариационного инференса"
+                }
+              }
+            ]
+          },
+          {
+            "id": "991a21c83d280c1e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f02c21e40e070b2a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "prez/6_BayesML_VI_Estimators (1).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6_BayesML_VI_Estimators (1)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "f9c8444a46fd6315",
+        "type": "tabs",
+        "dimension": 45.73560767590618,
+        "children": [
+          {
+            "id": "cda8704fd8862f4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Лекция 6 - Эстиматоры для вариационного инференса.md",
-                "mode": "source",
-                "source": false
+                "url": "https://rutube.ru/play/embed/8635255d4df6d8bcffa66bd1df7166c5/?p=5v88yuLRXrZFdZxW6RJFyA",
+                "title": "RUTUBE Плеер",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Лекция 6 - Эстиматоры для вариационного инференса"
+              "icon": "globe-2",
+              "title": "RUTUBE Плеер"
             }
           }
         ]
@@ -78,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0b8b6febbe809d24",
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекция 6 - Эстиматоры для вариационного инференса.md",
+                "file": "Лекция 06 - Эстиматоры для вариационного инференса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Лекция 6 - Эстиматоры для вариационного инференса"
+              "title": "Обратные ссылки для Лекция 06 - Эстиматоры для вариационного инференса"
             }
           },
           {
@@ -155,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,30 +216,33 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e71f9276552a562a",
+  "active": "a5c5fd503cfc7e23",
   "lastOpenFiles": [
-    "Pasted image 20250515171203.png",
-    "img6/Pasted image 20250515170933.png",
-    "img6/Pasted image 20250515170653.png",
-    "img6/Pasted image 20250515170455.png",
-    "img6/Pasted image 20250515170329.png",
-    "Лекция 6 - Эстиматоры для вариационного инференса.md",
-    "Лекция 7 - Точный инференс дискретных переменных.md",
-    "img6/Pasted image 20250513142604.png",
-    "Pasted image 20250512172835.png",
-    "img6/Pasted image 20250513142542.png",
-    "Pasted image 20250513142514.png",
+    "prez/6_BayesML_VI_Estimators (1).pdf",
+    "Лекция 06 - Эстиматоры для вариационного инференса.md",
+    "Pasted image 20250515221251.png",
+    "Pasted image 20250515221107.png",
+    "Pasted image 20250515220756.png",
+    "Pasted image 20250515215945.png",
+    "Pasted image 20250515215936.png",
+    "Pasted image 20250515215925.png",
+    "Pasted image 20250515215840.png",
+    "Pasted image 20250515215724.png",
+    "Pasted image 20250515215421.png",
+    "Pasted image 20250515215357.png",
+    "Лекция 10 - Современные архитектуры GAN.md",
+    "Лекция 09 - Генеративно-состязательные сети.md",
+    "Лекция 08 - Вероятностные модели и их применение.md",
+    "Лекция 07 - Точный инференс дискретных переменных.md",
+    "Лекция 05 - Вариационный инференс.md",
+    "Лекция 04 - Гамильтоновые методы Монте-Карло.md",
+    "Лекция 03 - Инференс в байесовских моделях с помощью MCMC.md",
+    "Лекция 02 - Байесовские методы в машинном обучении.md",
+    "Лекция 01 - Введение в байесовское моделирование.md",
+    "prez/1_BayesML_Intro.pdf",
     "Лекция 12 - VAE с дискретным скрытым пространством.md",
     "Лекция 11 - Вариационный автокодировщик.md",
-    "Лекция 10 - Современные архитектуры GAN.md",
-    "Лекция 9 - Генеративно-состязательные сети.md",
-    "Лекция 8 - Вероятностные модели и их применение.md",
-    "Лекция 5 - Вариационный инференс.md",
     "Лекция 14.md",
-    "Лекция 13 - Нормализующие потоки.md",
-    "Лекция 4 - Гамильтоновые методы Монте-Карло.md",
-    "Лекция 3 - Инференс в байесовских моделях с помощью MCMC.md",
-    "Лекция 2 - Байесовские методы в машинном обучении.md",
-    "Лекция 1 - Введение в байесовское моделирование.md"
+    "Лекция 13 - Нормализующие потоки.md"
   ]
 }
